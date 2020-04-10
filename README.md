@@ -9,7 +9,6 @@ conda env create -f set_env.yml
 <br>
 code to activate env
 <br>
-
 ```python
 conda to activate ats_env
 ```
