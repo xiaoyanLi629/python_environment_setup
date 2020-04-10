@@ -7,7 +7,8 @@ The code to create env
 <br>
 code to activate env
 <br>
-```conda to activate ats_env```
+```python
+conda to activate ats_env```
 
 ```python
 from torch.utils.data.dataset import Dataset
